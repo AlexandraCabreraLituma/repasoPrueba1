@@ -10,7 +10,7 @@ public class c2 {
         r=x+l;
         x=r+l;
         l=x-1;
-        X=2;
+        x=2;
 
 
 
