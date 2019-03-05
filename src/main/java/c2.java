@@ -11,7 +11,7 @@ public class c2 {
         x=r+l;
         l=x-1;
         x=2;
-
+        r=r/2;
 
 
     }
