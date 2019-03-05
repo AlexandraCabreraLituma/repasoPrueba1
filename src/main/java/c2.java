@@ -5,6 +5,7 @@ public class c2 {
         int r;
         int l;
         int x;
+        int a;
         x=2;
         l=1;
         r=x+l;
