@@ -12,6 +12,7 @@ public class c2 {
         l=x-1;
         x=2;
         r=r/2;
+        x=1;
 
 
     }
